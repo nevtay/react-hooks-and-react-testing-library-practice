@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import './App.css'
 import { useForm } from './hooks/useForm'
 import { Hello } from './Hello'
