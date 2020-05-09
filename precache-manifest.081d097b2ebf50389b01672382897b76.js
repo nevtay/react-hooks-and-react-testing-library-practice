@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a346bab3cce212e7f983e62a1cee4e6b",
+    "revision": "1ccf3aa9c52f351bc3a06c68744cb690",
     "url": "/react-hooks-and-react-testing-library-practice/index.html"
   },
   {
